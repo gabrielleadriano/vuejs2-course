@@ -1,29 +1,19 @@
-# todo
+# Lista de tarefas (TODO)
+## Introdução
+O projeto funciona como uma lista de tarefas. É possível adicionar uma nova tarefa e marcar uma tarefa como finalizada ao clicar. Além de manipular as tarefas, pode-se visualizar a porcentagem total de tarefas finalizadas. As ações realizadas durante a utilização do projeto são gravadas em localStorage para evitar perda de informação.
 
-## Project setup
+## Execução
+Para executar o projeto basta rodar os dois comandos a seguir.
+
+### Setup do projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilar para desenvolvimento
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Preview
+![programa em execução](./img/demonstracao.png)
